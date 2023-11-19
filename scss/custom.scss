@@ -7,7 +7,7 @@
 
 // Include any default variable overrides here (colors, font sizes, font family, etc..)
 $primary:       #9A66CD;
-$secondary:     #3B53C7;
+$secondary:     #d4de22;
 $success:       #A4D882;
 $info:          #59C1EF;
 $warning:       #FFF689;
@@ -15,23 +15,16 @@ $danger:        #E5446D;
 $light:         #ffffff;
 $dark:          #9A66CD;
 
-// Adjust nav link hover color here
-
 $navbar-text: $light;
-$navbar-dark-hover-color: $secondary;
+$navbar-dark-hover-color: $light;
 $carousel-control-color: $dark;
 $carousel-indicator-active-bg: $dark;
-$btn-color: $primary;
-// Typography
+$btn-color: $dark;
 
 // Change font family for base text
-
-
 $headings-font-family:  'Ubuntu', sans-serif;
-// Change font family for headings
 
-
-// Change font sizes for h1-h6 using values in assignment
+// Font sizes for h1-h6
 $h1-font-size: 3.05rem;
 $h2-font-size:  2.38rem;
 $h3-font-size:  1.95rem;
