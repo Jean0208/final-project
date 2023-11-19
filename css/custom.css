@@ -225,38 +225,38 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 h1, .h1 {
-  font-size: calc(1.4302rem + 2.1624vw);
+  font-size: calc(1.43rem + 2.16vw);
 }
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 3.052rem;
+    font-size: 3.05rem;
   }
 }
 
 h2, .h2 {
-  font-size: calc(1.3691rem + 1.4292vw);
+  font-size: calc(1.363rem + 1.356vw);
 }
 @media (min-width: 1200px) {
   h2, .h2 {
-    font-size: 2.441rem;
+    font-size: 2.38rem;
   }
 }
 
 h3, .h3 {
-  font-size: calc(1.3203rem + 0.8436vw);
+  font-size: calc(1.32rem + 0.84vw);
 }
 @media (min-width: 1200px) {
   h3, .h3 {
-    font-size: 1.953rem;
+    font-size: 1.95rem;
   }
 }
 
 h4, .h4 {
-  font-size: calc(1.2813rem + 0.3756vw);
+  font-size: calc(1.281rem + 0.372vw);
 }
 @media (min-width: 1200px) {
   h4, .h4 {
-    font-size: 1.563rem;
+    font-size: 1.56rem;
   }
 }
 
@@ -8247,19 +8247,19 @@ textarea.form-control-lg {
 }
 
 .fs-1 {
-  font-size: calc(1.4302rem + 2.1624vw) !important;
+  font-size: calc(1.43rem + 2.16vw) !important;
 }
 
 .fs-2 {
-  font-size: calc(1.3691rem + 1.4292vw) !important;
+  font-size: calc(1.363rem + 1.356vw) !important;
 }
 
 .fs-3 {
-  font-size: calc(1.3203rem + 0.8436vw) !important;
+  font-size: calc(1.32rem + 0.84vw) !important;
 }
 
 .fs-4 {
-  font-size: calc(1.2813rem + 0.3756vw) !important;
+  font-size: calc(1.281rem + 0.372vw) !important;
 }
 
 .fs-5 {
@@ -11810,16 +11810,16 @@ textarea.form-control-lg {
 }
 @media (min-width: 1200px) {
   .fs-1 {
-    font-size: 3.052rem !important;
+    font-size: 3.05rem !important;
   }
   .fs-2 {
-    font-size: 2.441rem !important;
+    font-size: 2.38rem !important;
   }
   .fs-3 {
-    font-size: 1.953rem !important;
+    font-size: 1.95rem !important;
   }
   .fs-4 {
-    font-size: 1.563rem !important;
+    font-size: 1.56rem !important;
   }
 }
 @media print {
