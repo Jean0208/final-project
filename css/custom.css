@@ -11857,5 +11857,35 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.card-img-top {
+  object-fit: contain;
+}
+
+.map-container {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.footer-hours-row,
+.navbar-collapse {
+  justify-content: center;
+}
+
+.navbar-nav {
+  margin-right: -81px;
+  gap: 20px;
+}
+
+.list-inline {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list-inline li::before {
+  content: "✿";
+  padding-right: 5px;
+}
 
 /*# sourceMappingURL=custom.css.map */
