@@ -68,3 +68,32 @@ $line-height-base: 1.2;
   content: "✿";
   padding-right: 5px;
 }
+
+header .icon-link,
+footer .btn-floating a {
+  text-decoration: none;
+}
+
+footer .btn-floating {
+  width: fit-content;
+}
+
+footer .container-fluid .row {
+  justify-content: space-between;
+}
+
+footer .hours-container {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 992px) {
+
+  #banner .card {
+    height: 300px;
+  }
+
+  #banner .card img {
+    object-position: left;
+  }
+}
